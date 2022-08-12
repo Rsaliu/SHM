@@ -1,0 +1,8 @@
+*.jpeg
+*.png
+*.jfif
+*.jpg
+/input
+code/.ipynb*
+*ssh
+*try*
